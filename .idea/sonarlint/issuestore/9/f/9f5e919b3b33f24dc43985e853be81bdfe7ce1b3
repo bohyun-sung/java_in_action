@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ú×ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(³ç‘âüÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(öş™¼
+N	java:S106="9Replace this use of System.out or System.err by a logger.(çÖÃÚ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ø¶ğ²ùÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¾ë¸ü
+g
+java:S6204r"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¸ ãq
+g
+java:S6204u"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¸ ãq
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(í”ËÃûÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(ü´ú›
+Q	java:S125~"<This block of commented-out lines of code should be removed.(ò£—
+?
+java:S1144k")Remove this unused private "test" method.(‚Ê¸¢
